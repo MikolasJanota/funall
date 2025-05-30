@@ -1,0 +1,5 @@
+TITLE c1068820h2986383p26787947
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(f(x) + 2f(y)) = f(2x) + 8y + 6

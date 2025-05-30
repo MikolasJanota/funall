@@ -1,0 +1,9 @@
+TITLE C6 U77 PraSe-25-4-3
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x+y) + 2f(x-y) = 3f(x)-y
+SOLUTION:
+GIVEN c:R
+f(x) = x+c
+

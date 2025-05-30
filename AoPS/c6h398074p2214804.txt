@@ -1,0 +1,7 @@
+TITLE c6h398074p2214804
+FIND f:R+->R+
+ALL a:R+
+ALL b:R+
+ALL c:R+
+ALL d:R+
+abcd=1 => (f(a)+f(b))(f(c)+f(d))=(a+b)(c+d)

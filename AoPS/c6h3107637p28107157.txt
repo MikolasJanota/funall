@@ -1,0 +1,5 @@
+TITLE c6h3107637p28107157
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+f(x+y^2f(x^2))=f(xy)^2+f(x)

@@ -1,0 +1,10 @@
+TITLE U37 IMO-1994-5
+FIND f:(-1,inf)->(-1,inf)
+ALL x:(-1,inf)
+ALL y:(-1,inf)
+f(x+f(y) + xf(y)) = y + f(x) + yf(x)
+x < y && y < 0 => f(x)/x < f(y)/y
+0 < x && x < y => f(x)/x < f(y)/y
+SOLUTION:
+f(x) = -x/(x+1)
+

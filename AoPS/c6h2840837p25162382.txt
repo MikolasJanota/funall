@@ -1,0 +1,5 @@
+TITLE c6h2840837p25162382
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+f(xf(x + y)) = yf(x) + 1

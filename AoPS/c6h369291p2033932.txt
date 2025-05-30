@@ -1,0 +1,5 @@
+TITLE c6h369291p2033932
+FIND f:R->R
+ALL x:R
+ALL y:R
+xf(y) + yf(x) = (x + y)f(x)f(y)

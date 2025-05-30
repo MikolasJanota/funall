@@ -1,0 +1,5 @@
+TITLE c6h224951p1249246
+FIND f:R->R
+ALL x:R
+ALL y:R
+(x + y)(f(x) - f(y)) = (x - y)f(x + y)

@@ -1,0 +1,5 @@
+TITLE c129h1918673p13153858
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+(x - y)(f(x) - f(y)) = f(x - f(y))f(f(x) - y)

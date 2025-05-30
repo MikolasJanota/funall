@@ -1,0 +1,5 @@
+TITLE c6h1821952p12173189
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(x^4 - y^4) + 4f(xy)^2 = f(x^4 + y^4)

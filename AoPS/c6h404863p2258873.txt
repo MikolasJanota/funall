@@ -1,0 +1,4 @@
+TITLE c6h404863p2258873
+FIND f:R->R  
+ALL x:R  
+f(x) + x f(1 - x) = x^2 + 1  

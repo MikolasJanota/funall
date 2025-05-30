@@ -1,0 +1,5 @@
+TITLE c7h1344342p7313815
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x^2+y^2f(x)) = xf(y)^2 - f(x)^2

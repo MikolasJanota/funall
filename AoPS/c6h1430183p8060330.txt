@@ -1,0 +1,5 @@
+TITLE c6h1430183p8060330
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+(x+y)f(x-y) = f(x^2-y^2)  

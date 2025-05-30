@@ -1,0 +1,5 @@
+TITLE c6h1961592p13567609
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(f(x)+y) = f(x^2-y) + 4(y-2)(f(x)+2)

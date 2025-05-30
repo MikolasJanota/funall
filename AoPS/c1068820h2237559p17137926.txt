@@ -1,0 +1,5 @@
+TITLE c1068820h2237559p17137926
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(f(x) + xf(y)) = 3f(x) + 4xy

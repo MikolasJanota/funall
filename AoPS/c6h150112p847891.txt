@@ -1,0 +1,5 @@
+TITLE c6h150112p847891
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x^3 + y^3) = x^2f(x) + yf(y^2)

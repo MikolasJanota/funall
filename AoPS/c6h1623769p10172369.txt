@@ -1,0 +1,5 @@
+TITLE c6h1623769p10172369
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+f(x+f(y+xy)) = (y+1)f(x+1) - 1

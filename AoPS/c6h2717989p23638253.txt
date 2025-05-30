@@ -1,0 +1,5 @@
+TITLE c6h2717989p23638253
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x + y) <= f(xy)

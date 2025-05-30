@@ -1,0 +1,5 @@
+TITLE c6h2352897p19081394
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(x^2y) + 2f(y^2) = (x^2 + f(y)) * f(y)  

@@ -1,0 +1,5 @@
+TITLE c6h1502364p8868742
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(x^2 + f(x)f(y)) = xf(x + y)

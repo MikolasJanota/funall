@@ -1,0 +1,5 @@
+TITLE c6h470214p2632645
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x+y) + f(x)f(y) = f(xy) + (y+1)f(x) + (x+1)f(y)

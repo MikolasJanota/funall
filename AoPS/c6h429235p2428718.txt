@@ -1,0 +1,5 @@
+TITLE c6h429235p2428718
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+y^2f(x) + x^2f(y) + xy = xyf(x + y) + x^2 + y^2

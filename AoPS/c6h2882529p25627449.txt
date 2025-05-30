@@ -1,0 +1,6 @@
+TITLE c6h2882529p25627449
+FIND f:R->R  
+ALL a:R  
+ALL b:R  
+ALL c:R  
+(f(a)-f(b))(f(b)-f(c))(f(c)-f(a)) = f(ab^2+bc^2+ca^2) - f(a^2b+b^2c+c^2a)

@@ -1,0 +1,5 @@
+TITLE c6h1157772p5499303
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(x+y) = f(x-y) + f(f(1-xy))

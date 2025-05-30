@@ -1,0 +1,5 @@
+TITLE c6h3067007p27675607
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+(x - y)(f(x) + f(y)) <= f(x^2 - y^2)

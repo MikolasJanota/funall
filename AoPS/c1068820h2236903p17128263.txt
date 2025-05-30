@@ -1,0 +1,5 @@
+TITLE c1068820h2236903p17128263
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(f(x) + 2y) = 6x + f(f(y) - x)

@@ -1,0 +1,6 @@
+TITLE c6h80513p460868
+FIND f:R->R
+ALL x:R
+ALL y:R
+ALL z:R
+(f(xy) + f(xz))/2 - f(x)f(yz) >= 1/4

@@ -1,0 +1,8 @@
+TITLE C12 U35 IMO-1992-2
+FIND f:R->R 
+ALL x:R
+ALL y:R
+f(x^2 + f(y)) = y + f(x)^2
+SOLUTION:
+f(x) = x
+

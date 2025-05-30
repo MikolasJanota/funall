@@ -1,0 +1,6 @@
+TITLE c6h289404p1564932
+FIND f:R->R
+ALL x:R
+ALL y:R
+ALL z:R
+(x^3 + f(y)x + f(z) = 0) => (f(x)^3 + y f(x) + z = 0)

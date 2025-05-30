@@ -1,0 +1,5 @@
+TITLE c6h1675681p10673029
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(x)f(yf(x)-1) = x^2f(y) - f(x)

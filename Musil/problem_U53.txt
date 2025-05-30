@@ -1,0 +1,8 @@
+TITLE U53 APMO-2002-5
+FIND f:R->R FINITELY_MANY_ROOTS
+ALL x:R
+ALL y:R
+f(x^4+y) = x^3f(x) + f(f(y))
+SOLUTION:
+f(x) = x
+

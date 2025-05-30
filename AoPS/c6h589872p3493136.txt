@@ -1,0 +1,5 @@
+TITLE c6h589872p3493136
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(xf(x) + 2y) = f(x^2) + f(y) + x + y - 1

@@ -1,0 +1,5 @@
+TITLE c1068820h2675249p23187456
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x)f(y) = f(xy + 1) + f(x - y) - 2

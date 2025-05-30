@@ -1,0 +1,6 @@
+TITLE c6h3229934p29587312
+FIND f:R->R
+f(0)=0
+ALL x:R
+ALL y:R
+f(x^2+yf(x))+f(y^2+xf(y))=f(x+y)^2

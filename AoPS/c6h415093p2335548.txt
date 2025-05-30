@@ -1,0 +1,6 @@
+TITLE c6h415093p2335548
+FIND f:R->R
+ALL x:R
+ALL y:R
+ALL z:R
+f(x + f(y + z)) + f(f(x + y) + z) = 2y

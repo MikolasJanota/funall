@@ -1,0 +1,5 @@
+TITLE c6h2687169p23314237
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x+yf(x+y)) + xf(x) = f(xf(x+y+1)) + y^2

@@ -1,0 +1,5 @@
+TITLE c6h1909182p13072708
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+x^2f(yf(x)) = y^2f(x)f(f(x))

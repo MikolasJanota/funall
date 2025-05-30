@@ -1,0 +1,6 @@
+TITLE c6h1243431p6362873
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+ALL z:R+
+(z + 1)f(x + y) = f(xf(z) + y) + f(yf(z) + x)

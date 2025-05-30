@@ -1,0 +1,8 @@
+TITLE U64 Vietnam-2005
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(f(x-y)) = f(x)f(y) - f(x) + f(y) - xy
+SOLUTION:
+f(x) = -x
+

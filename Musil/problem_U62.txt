@@ -1,0 +1,11 @@
+TITLE U62 USAMO-2002
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x^2-y^2) = xf(x) - yf(y)
+SOLUTION:
+GIVEN c:R
+f(x) = cx
+
+# U63 Vietnam-2004 SKIPPED: quantify over functions
+

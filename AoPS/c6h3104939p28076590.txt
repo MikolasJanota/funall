@@ -1,0 +1,6 @@
+TITLE c6h3104939p28076590
+FIND f:R+->R+
+GIVEN c:R+ 
+ALL x:R+ 
+ALL y:R+ 
+f((c + 1)x + f(y)) = f(x + 2y) + 2cx

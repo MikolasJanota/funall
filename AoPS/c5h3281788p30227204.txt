@@ -1,0 +1,5 @@
+TITLE c5h3281788p30227204
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x^2-y)+2yf(x)=f(f(x))+f(y)

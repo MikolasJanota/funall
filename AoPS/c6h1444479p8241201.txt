@@ -1,0 +1,5 @@
+TITLE c6h1444479p8241201
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(x+yf(x))=f(xf(y))-x+f(y+f(x))

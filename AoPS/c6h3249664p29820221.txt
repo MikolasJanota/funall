@@ -1,0 +1,5 @@
+TITLE c6h3249664p29820221
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+2f((x+y)^2) = f(x+y) + (f(x))^2 + (4y-1)f(x) - 2y + 4y^2

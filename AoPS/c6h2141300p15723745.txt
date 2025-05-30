@@ -1,0 +1,6 @@
+TITLE c6h2141300p15723745
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+ALL z:R  
+f(x + y) + f(x + z) - f(x)f(y + z) >= 1

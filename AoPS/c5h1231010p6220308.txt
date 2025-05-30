@@ -1,0 +1,5 @@
+TITLE c5h1231010p6220308
+FIND f:R->R
+ALL x:R
+ALL y:R
+(f(x)+xy) * f(x-3y)+(f(y)+xy) * f(3x-y)=(f(x+y))^2

@@ -1,0 +1,9 @@
+TITLE U68 Romania-2009
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x^3 + y^3) = xf(x^2) + yf(y^2)
+SOLUTION:
+GIVEN a:R
+f(x) = ax
+

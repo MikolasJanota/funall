@@ -1,0 +1,8 @@
+TITLE U61 CSMO-60-A-III-6
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+f(x)f(y) = f(y)f(xf(y)) + 1/(xy)
+SOLUTION:
+f(x) = 1+1/x
+

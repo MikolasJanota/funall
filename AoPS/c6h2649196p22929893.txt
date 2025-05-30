@@ -1,0 +1,5 @@
+TITLE c6h2649196p22929893
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(x^2 + f(y)) - y = (f(x + y) - y)^2  

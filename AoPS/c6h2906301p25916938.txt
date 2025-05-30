@@ -1,0 +1,6 @@
+TITLE c6h2906301p25916938
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+ALL z:R+
+f(x+f(y)+f(f(z)))=z+f(y+f(x))

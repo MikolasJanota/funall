@@ -1,0 +1,5 @@
+TITLE c6h2215177p16799357
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(x+f(y))=2x+2f(y+1)  

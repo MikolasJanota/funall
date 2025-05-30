@@ -1,0 +1,5 @@
+TITLE c6h463346p2597733
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(f(x+y)f(x-y)) = x^2 - yf(y)

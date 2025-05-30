@@ -1,0 +1,13 @@
+TITLE U54 APMO-2011
+GIVEN m:R+
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x) < m
+f(xf(y)) + yf(x) = xf(y) + f(xy)
+SOLUTION:
+x >= 0 => f(x) = 0
+x < 0 => f(x) = 2x
+SOLUTION:
+f(x) = 0
+

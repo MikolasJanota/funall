@@ -1,0 +1,6 @@
+TITLE c6h2959340p26504131
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(0)+1=f(1)
+f(xy-x)+f(x+f(y))=yf(x)+3

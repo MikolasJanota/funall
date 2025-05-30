@@ -1,0 +1,5 @@
+TITLE c6h3036826p27331174
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+xf(xf(2y)) = y + xyf(x)

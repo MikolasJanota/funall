@@ -1,0 +1,5 @@
+TITLE c1068820h2984796p26767041
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+f(yf(x))(x + y) = x^2(f(x) + f(y))

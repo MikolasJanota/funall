@@ -1,0 +1,4 @@
+TITLE c6h1779415p11716083
+FIND f:R->R
+ALL x:R
+f(1-f(x))=x

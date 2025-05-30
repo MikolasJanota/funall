@@ -1,0 +1,5 @@
+TITLE c6h1966396p13617734
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(f(x)^2+f(y^2))=(x-y)f(x-f(y))

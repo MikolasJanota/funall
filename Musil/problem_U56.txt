@@ -1,0 +1,10 @@
+TITLE U56 BalticWay-2010-5
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x^2) + f(xy) = f(x)f(y) + yf(x) + xf(x+y)
+SOLUTION:
+f(x) = 0
+SOLUTION:
+f(x) = 2-x
+

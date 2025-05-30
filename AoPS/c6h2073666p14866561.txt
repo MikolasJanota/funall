@@ -1,0 +1,5 @@
+TITLE c6h2073666p14866561
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x^2+y)=f(x)f(x+1)+f(y)+2x^2y

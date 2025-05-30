@@ -1,0 +1,13 @@
+TITLE U19 U52 APMO-1989
+FIND f:R->R INCREASING
+# g is inverse
+FIND g:R->R
+ALL x:R
+f(g(x)) = x
+g(f(x)) = x
+f(x) + g(x) = 2x
+SOLUTION:
+GIVEN c:R
+f(x) = x+c
+g(x) = x-c
+

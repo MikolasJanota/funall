@@ -1,0 +1,11 @@
+TITLE U40 IMOSC-2000-A3
+FIND f:R->R
+FIND g:R->R
+ALL x:R
+ALL y:R
+f(x + g(y)) = xf(y) - yf(x) + g(x)
+SOLUTION:
+GIVEN c:R--1
+f(x) = (cx-c^2) / (1+c)
+g(x) = cx - c^2
+

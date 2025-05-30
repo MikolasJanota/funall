@@ -1,0 +1,7 @@
+TITLE U12 U78 PraSe-25-4-5
+FIND f:R-0,1->R
+ALL x:R-0,1
+f(x)+f(1/(1-x)) = x
+SOLUTION:
+f(x) = (x^3-x+1) / (2x^2-2x)
+

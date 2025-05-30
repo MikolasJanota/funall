@@ -1,0 +1,9 @@
+TITLE C10
+FIND f:R->R NONDECREASING
+ALL x:R
+f(f(x)) = x
+SOLUTION:
+f(x) = x
+
+# U18 U58 RMMS-2011-1 SKIPPED: increasing / decreasing function composition
+

@@ -1,0 +1,5 @@
+TITLE c6h390192p2168099
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x+y)f(x-y) = (f(x)+f(y))^2 - 4x^2f(y)

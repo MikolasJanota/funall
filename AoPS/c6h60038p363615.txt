@@ -1,0 +1,5 @@
+TITLE c6h60038p363615
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(xf(x)+f(y)) = (f(x))^2 + y

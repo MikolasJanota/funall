@@ -1,0 +1,8 @@
+TITLE U81 PraSe-27-7-3
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+x^3 f(x)^3 + 1 = xf(x) (1 + xf(x))
+SOLUTION:
+f(x) = 1/x
+

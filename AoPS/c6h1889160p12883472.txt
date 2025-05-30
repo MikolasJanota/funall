@@ -1,0 +1,5 @@
+TITLE c6h1889160p12883472
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+(x+y)f(2yf(x)+f(y))=x^3f(yf(x))

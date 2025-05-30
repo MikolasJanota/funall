@@ -1,0 +1,5 @@
+TITLE c6h2117559p15383670
+FIND f:R->R
+ALL x:R
+ALL y:R
+(y + 1)f(yf(x)) = yf(x(y + 1))

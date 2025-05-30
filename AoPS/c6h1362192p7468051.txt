@@ -1,0 +1,5 @@
+TITLE c6h1362192p7468051
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(x + y + yf(x)) = f(x) + f(y) + xf(y)

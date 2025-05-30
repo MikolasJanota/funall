@@ -1,0 +1,6 @@
+TITLE c6h49423p313237
+FIND f:R->R
+ALL x:R
+ALL y:R
+ALL z:R
+f(x^2 + yf(z)) = xf(x) + zf(y)

@@ -1,0 +1,5 @@
+TITLE c1068820h2206670p16665517
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(2x^3 + f(y)) = y + 2x^2 f(x)

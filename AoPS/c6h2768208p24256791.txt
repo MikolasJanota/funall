@@ -1,0 +1,5 @@
+TITLE c6h2768208p24256791
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x^2+f(x+y))=y+xf(x+1)

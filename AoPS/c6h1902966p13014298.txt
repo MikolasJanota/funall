@@ -1,0 +1,5 @@
+TITLE c6h1902966p13014298
+FIND f:R->R
+ALL x:R
+ALL y:R
+(x^2 + y^2)f(xy) = f(x)f(y)f(x^2 + y^2)

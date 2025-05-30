@@ -1,0 +1,8 @@
+TITLE C2
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x)f(y) - f(xy) = x+y
+SOLUTION:
+f(x) = x+1
+

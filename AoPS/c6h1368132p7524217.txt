@@ -1,0 +1,5 @@
+TITLE c6h1368132p7524217
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+(x + y^2)f(yf(x)) = xyf(y^2 + f(x))  

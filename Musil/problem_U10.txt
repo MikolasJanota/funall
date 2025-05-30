@@ -1,0 +1,8 @@
+TITLE U10 U83 PraSe-27-7-6
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x^2+y) + f(f(x)-y) = 2f(f(x)) + 2y^2
+SOLUTION:
+f(x) = x^2
+

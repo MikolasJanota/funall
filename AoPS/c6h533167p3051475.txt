@@ -1,0 +1,5 @@
+TITLE c6h533167p3051475
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(x+y) - f(x-y) = 2y(3x^2 + y^2)  

@@ -1,0 +1,8 @@
+TITLE C3 U85 PraSe-27-7-8a
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x+f(y)) = x^2+f(y)^2 + 2xf(y)
+SOLUTION:
+f(x) = x^2
+

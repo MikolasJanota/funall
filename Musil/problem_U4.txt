@@ -1,0 +1,8 @@
+TITLE U4
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+f(x^2) = x+f(y)-y/f(y)
+SOLUTION:
+f(x) = sqrt(x)
+

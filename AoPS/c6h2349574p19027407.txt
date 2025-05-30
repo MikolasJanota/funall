@@ -1,0 +1,5 @@
+TITLE c6h2349574p19027407
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(y-f(x)) = f(x) - 2x + f(f(y))

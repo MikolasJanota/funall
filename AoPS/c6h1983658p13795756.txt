@@ -1,0 +1,5 @@
+TITLE c6h1983658p13795756
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(x + xy + f(y)) = (f(x) + 1/2)(f(y) + 1/2)  

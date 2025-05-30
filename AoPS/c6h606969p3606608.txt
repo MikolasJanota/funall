@@ -1,0 +1,5 @@
+TITLE c6h606969p3606608
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+xf(y) + f(xf(y)) - xf(f(y)) - f(xy) = 2x + f(y) - f(x+y)  

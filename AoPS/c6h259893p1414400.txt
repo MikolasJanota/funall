@@ -1,0 +1,6 @@
+TITLE c6h259893p1414400
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+ALL z:R  
+f(x+y) + f(y+z) + f(z+x) >= 3f(x+2y+3z)

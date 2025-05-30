@@ -1,0 +1,10 @@
+TITLE U25 U60 BMO-1997-4 BMO-2000-1
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(xf(x) + f(y)) = y + f(x)^2
+SOLUTION:
+f(x) = x
+SOLUTION:
+f(x) = -x
+

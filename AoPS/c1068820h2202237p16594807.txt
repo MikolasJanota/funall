@@ -1,0 +1,5 @@
+TITLE c1068820h2202237p16594807
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(f(x) + f(y)) = f(x^2) + 2x^2 f(y) + (f(y))^2

@@ -1,0 +1,9 @@
+TITLE C8 U32 IMOSC-1979-26
+FIND f:Q->Q
+ALL x:Q
+ALL y:Q
+f(1) = 2
+f(xy) = f(x)f(y) - f(x+y) + 1
+SOLUTION:
+f(x) = x+1
+

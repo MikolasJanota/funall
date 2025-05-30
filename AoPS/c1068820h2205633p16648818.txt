@@ -1,0 +1,5 @@
+TITLE c1068820h2205633p16648818
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(f(f(x) + y) + y) = x + y + f(y)

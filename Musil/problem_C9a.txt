@@ -1,0 +1,8 @@
+TITLE C9a
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(f(x)+y) = f(2x^2) + 4f(x)y + 2y^2
+SOLUTION:
+f(x) = 2x^2
+

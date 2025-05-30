@@ -1,0 +1,5 @@
+TITLE c1068820h2205467p16646345
+FIND f:R+->R
+ALL x:R+
+ALL y:R+
+f(x/y) = f(x) + f(y) - f(x)f(y)

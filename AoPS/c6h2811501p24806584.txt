@@ -1,0 +1,5 @@
+TITLE c6h2811501p24806584
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(f(y-x)-xf(y))+f(x)=y(1-f(x))

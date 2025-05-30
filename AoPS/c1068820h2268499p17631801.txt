@@ -1,0 +1,5 @@
+TITLE c1068820h2268499p17631801
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+f(3(f(xy))^2 + (xy)^2) = (xf(y) + yf(x))^2

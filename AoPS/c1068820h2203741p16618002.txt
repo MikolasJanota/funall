@@ -1,0 +1,5 @@
+TITLE c1068820h2203741p16618002
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(xy + f(xy)) = 2x f(y)

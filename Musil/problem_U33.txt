@@ -1,0 +1,11 @@
+TITLE U33 IMO-1986-5
+FIND f:R+0->R+0
+ALL x:R+0
+ALL y:R+0
+f(2) = 0
+0 <= x && x < 2 => f(x) != 0
+f(xf(y)) f(y) = f(x+y)
+SOLUTION:
+0 <= x && x < 2 => f(x) = x/(x-2)
+x >= 2 => f(x) = x/(x-2)
+

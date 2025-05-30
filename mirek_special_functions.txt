@@ -1,0 +1,42 @@
+# floor -- special SMT treatment
+
+DECLARE rabs:R->R
+ALL x:R
+x >= 0 => rabs(x) = x
+x <= 0 => rabs(x) = -x
+
+DECLARE sqrt:R+0->R+0
+ALL x:R+0
+sqrt(x)*sqrt(x) = x
+
+DECLARE exp:R->R+
+DECLARE log:R+->R
+DECLARE_POWER
+ALL a:R
+ALL b:R
+ALL x:R+
+ALL y:R+
+exp(0) = 1
+log(1) = 0
+exp(a + b) = exp(a)*exp(b)
+log(x)+log(y) = log(x*y)
+x^a = exp(log(x)*a)
+0^x = 0
+log(exp(a)) = a
+exp(log(x)) = x
+
+DECLARE pi:R
+DECLARE sin:R->[-1,1]
+DECLARE cos:R->[-1,1]
+ALL x:R
+ALL y:R
+sin(0) = 0
+cos(0) = 1
+sin(x+pi) = -sin(x)
+cos(x+pi) = -cos(x)
+cos(x) = sin(x+pi/2)
+sin(x)^2 + cos(x)^2 = 1
+sin(-x) = -sin(x)
+cos(-x) = cos(x)
+sin(x+y) = sin(x)cos(y) + cos(x)sin(y)
+cos(x+y) = cos(x)cos(y) - sin(x)sin(y)

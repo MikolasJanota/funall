@@ -1,0 +1,5 @@
+TITLE c6h2855079p25323034
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x f(x+y)) + f(f(y) f(x+y)) = (x+y)^2

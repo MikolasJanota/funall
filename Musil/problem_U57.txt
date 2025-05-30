@@ -1,0 +1,9 @@
+TITLE U57 BalticWay-2011-6
+GIVEN f:R->R
+FIND c:R
+ALL x:R
+f(f(x)) = x^2 - x + 1
+f(0) = c
+SOLUTION:
+c = 1
+

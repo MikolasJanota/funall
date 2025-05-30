@@ -1,0 +1,5 @@
+TITLE c6h3035170p27313291
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(2f(x)) = f(x - f(y)) + f(x) + y

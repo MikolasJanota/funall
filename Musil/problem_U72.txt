@@ -1,0 +1,10 @@
+TITLE U72 PraSe-18-6-2
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(2x+y) = f(2y+x) f(x+y)
+SOLUTION:
+f(x) = 0
+SOLUTION:
+f(x) = 1
+

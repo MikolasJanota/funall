@@ -1,0 +1,8 @@
+TITLE U89 MFF-UK-solving-seminar-2008
+FIND f:R->R
+ALL x:R
+ALL y:R
+(f(x+y) - f(x-y))^2 = f(x)f(y)
+SOLUTION:
+f(x) = 0
+

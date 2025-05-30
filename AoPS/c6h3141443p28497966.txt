@@ -1,0 +1,7 @@
+TITLE c6h3141443p28497966
+FIND f:R->R
+GIVEN alpha:R+ 
+GIVEN beta:R+ 
+ALL x:R
+ALL y:R
+alpha + beta >= 2 => f(x)f(y) <= f(xy) + alpha x + beta y

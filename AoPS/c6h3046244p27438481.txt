@@ -1,0 +1,5 @@
+TITLE c6h3046244p27438481
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(xy+f(y))f(x) = x^2f(y) + f(xy)

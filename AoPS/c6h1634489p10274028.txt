@@ -1,0 +1,5 @@
+TITLE c6h1634489p10274028
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(x+y)f(x^2-xy+y^2) = x^3 + y^3

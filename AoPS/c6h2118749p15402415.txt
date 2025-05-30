@@ -1,0 +1,5 @@
+TITLE c6h2118749p15402415
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(xy+xf(x))=f(x)(f(x)+f(y))  

@@ -1,0 +1,8 @@
+TITLE U71 PraSe-18-6-1
+FIND f:R->R
+ALL x:R
+ALL y:R
+yf(x) + xf(y) = f(x+y)
+SOLUTION:
+f(x) = 0
+

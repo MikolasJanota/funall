@@ -1,0 +1,7 @@
+TITLE c6h1468155p8509522
+FIND f:R->R
+ALL a:R
+ALL b:R
+ALL c:R
+(a + b + c >= 0) => f(a^3) + f(b^3) + f(c^3) >= 3f(abc)
+(a + b + c <= 0) => f(a^3) + f(b^3) + f(c^3) <= 3f(abc)

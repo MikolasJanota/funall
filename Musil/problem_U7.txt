@@ -1,0 +1,9 @@
+TITLE U7
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x-y^2) = f(x)-y^2
+SOLUTION:
+GIVEN c:R
+f(x) = x+c
+

@@ -1,0 +1,5 @@
+TITLE c1068820h2120981p15431592
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(xf(y)) = (1 - y)f(xy) + x^2y^2f(y)

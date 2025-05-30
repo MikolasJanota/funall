@@ -1,0 +1,6 @@
+TITLE c6h2981421p26732020
+FIND f:R->R
+ALL x:R
+ALL y:R
+ALL z:R
+(x + y + z = 0) => f(x^3) + f(y)^3 + f(z)^3 = 3xyz

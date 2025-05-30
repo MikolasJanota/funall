@@ -1,0 +1,5 @@
+TITLE c6h607043p3607073
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+xf(xy) + xyf(x) >= f(x^2)f(y) + x^2y

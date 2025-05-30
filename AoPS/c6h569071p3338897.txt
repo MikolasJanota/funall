@@ -1,0 +1,5 @@
+TITLE c6h569071p3338897
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(xf(y)+y)+f(-f(x))=f(yf(x)-y)+y  

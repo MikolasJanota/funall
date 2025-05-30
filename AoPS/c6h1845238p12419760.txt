@@ -1,0 +1,6 @@
+TITLE c6h1845238p12419760
+FIND f:R+->R+
+GIVEN a:R
+ALL x:R+
+ALL y:R+
+f(f(x) + y) = ax + (1/f(1/y))

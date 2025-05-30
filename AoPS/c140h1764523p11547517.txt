@@ -1,0 +1,5 @@
+TITLE c140h1764523p11547517
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+f(xy(1/x + 1/y + 1/(x+y))) = f(xy(1/x + 1/y)) + f(x)f(y/(x+y))

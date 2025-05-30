@@ -1,0 +1,6 @@
+TITLE c6h136045p769806
+FIND f:R+->R
+ALL x:R+
+ALL y:R+
+f(x) + f(y) <= f(x+y)/2
+f(x)/x + f(y)/y >= f(x+y)/(x+y)

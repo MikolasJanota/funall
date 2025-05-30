@@ -1,0 +1,5 @@
+TITLE c6h1521867p9094901
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(f(x) + y) = f(x^2 - y) + 4f(x)y

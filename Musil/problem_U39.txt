@@ -1,0 +1,8 @@
+TITLE U39 IMO-1999-5
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x-f(y)) = f(f(y)) + xf(y) + f(x) - 1
+SOLUTION:
+f(x) = 1 - x^2/2
+

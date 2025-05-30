@@ -1,0 +1,5 @@
+TITLE c7h58521p357658
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+f(x)f(yf(x)) = f(x+y)

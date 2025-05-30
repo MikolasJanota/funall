@@ -1,0 +1,5 @@
+TITLE c6h1839127p12346476
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(xf(y)) + f(xy) = 2f(x)y  

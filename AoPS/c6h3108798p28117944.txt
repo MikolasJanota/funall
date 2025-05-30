@@ -1,0 +1,5 @@
+TITLE c6h3108798p28117944
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+x^2 + y^2 + 2f(xy) = f(x+y)(f(x) + f(y))

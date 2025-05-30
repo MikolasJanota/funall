@@ -1,0 +1,6 @@
+TITLE c3h3156892p28695369
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x + y) + f(x - y) = x^2 + y^2
+

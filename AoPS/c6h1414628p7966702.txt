@@ -1,0 +1,5 @@
+TITLE c6h1414628p7966702
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+f(x+f(xy)) = xf(1+f(y))

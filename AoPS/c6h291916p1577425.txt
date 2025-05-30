@@ -1,0 +1,5 @@
+TITLE c6h291916p1577425
+FIND f:R+->R  
+ALL x:R+  
+ALL y:R+  
+f(x)f(y) = f(xy) + 2005(1/x + 1/y + 2004)

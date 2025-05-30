@@ -1,0 +1,6 @@
+TITLE c6h525346p2973067
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x+f(y))=x+f(f(y))
+f(2004)=2005

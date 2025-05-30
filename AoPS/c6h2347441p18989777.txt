@@ -1,0 +1,5 @@
+TITLE c6h2347441p18989777
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(x^3+y^3) = f(x^3) + 3x^3f(x)f(y) + 3f(x)(f(y))^2 + y^6f(y)

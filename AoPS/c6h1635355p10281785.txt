@@ -1,0 +1,6 @@
+TITLE c6h1635355p10281785
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+f(x+y) >= f(x) + y
+f(f(x)) <= x

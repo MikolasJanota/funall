@@ -1,0 +1,7 @@
+TITLE c6h2804292p24717435
+FIND f:R->R
+ALL a:R
+ALL b:R
+ALL c:R
+ALL d:R
+f(a-b)f(c-d) + f(a-d)f(b-c) <= (a-c)f(b-d)

@@ -1,0 +1,12 @@
+TITLE U20 U69 Belarus-1997
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x+y) + f(x)f(y) = f(xy) + f(x) + f(y)
+SOLUTION:
+f(x) = x
+SOLUTION:
+f(x) = 0
+SOLUTION:
+f(x) = 2
+

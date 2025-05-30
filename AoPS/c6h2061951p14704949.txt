@@ -1,0 +1,5 @@
+TITLE c6h2061951p14704949
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(f(x)-f(y))+2f(xy)=x^2f(x)+f(y^2)

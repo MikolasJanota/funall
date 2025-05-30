@@ -1,0 +1,5 @@
+TITLE c6h2378724p19479824
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+xf(y) - yf(x) = f(y/x)

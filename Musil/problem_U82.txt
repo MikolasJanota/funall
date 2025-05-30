@@ -1,0 +1,7 @@
+TITLE U82 PraSe-27-7-5
+FIND f:R->R
+ALL x:R
+f(x) + xf(-x) = (1-x) sin(x)
+SOLUTION:
+f(x) = sin(x)
+

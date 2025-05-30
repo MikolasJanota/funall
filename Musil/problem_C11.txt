@@ -1,0 +1,9 @@
+TITLE C11
+FIND f:R+->R+ INCREASING
+ALL x:R+
+ALL y:R+
+f(xy) = f(x)f(y)
+SOLUTION:
+GIVEN c:R+
+f(x) = x^c
+

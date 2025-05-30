@@ -1,0 +1,5 @@
+TITLE c6h1952355p13478898
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+f(xy+f(x)) = f(f(x)f(y)) + x

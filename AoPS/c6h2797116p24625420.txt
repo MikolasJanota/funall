@@ -1,0 +1,5 @@
+TITLE c6h2797116p24625420
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x^2) + 2f(xy) = xf(x+y) + yf(x)

@@ -1,0 +1,8 @@
+TITLE U24 U55 BalticWay-1998-7
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x) + f(y) = f(f(x)f(y))
+SOLUTION:
+f(x) = 0
+

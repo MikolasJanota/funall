@@ -1,0 +1,6 @@
+TITLE c6h348350p1868950
+FIND f:R->R
+ALL x:R
+ALL y:R
+ALL z:R
+f(f(x)+f(y)+f(z)) = f(f(x)-f(y)) + f(2xy + f(z)) + 2f(xz - yz)

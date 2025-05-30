@@ -1,0 +1,5 @@
+TITLE c6h3280641p30211119
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+f(x + f(xy)/x) = f(xy) f(y + 1/y)

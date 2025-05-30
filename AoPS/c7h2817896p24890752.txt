@@ -1,0 +1,6 @@
+TITLE c7h2817896p24890752
+FIND F:R->R
+ALL x:R
+x != 0
+x != 1
+F(x) + F((x-1)/x) = 1 + x

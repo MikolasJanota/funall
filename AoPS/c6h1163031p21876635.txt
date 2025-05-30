@@ -1,0 +1,6 @@
+TITLE c6h1163031p21876635
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+ALL z:R  
+f(xy) + f(xz) >= f(x)f(yz) + 1

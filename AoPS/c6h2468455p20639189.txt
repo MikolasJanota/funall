@@ -1,0 +1,5 @@
+TITLE c6h2468455p20639189
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(f(x)f(y)-1) = xy - 1  

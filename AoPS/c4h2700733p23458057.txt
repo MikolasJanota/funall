@@ -1,0 +1,5 @@
+TITLE c4h2700733p23458057
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(xy) <= y f(x) + f(y)

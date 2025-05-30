@@ -1,0 +1,5 @@
+TITLE c6h1781955p11746496
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(xy-1) + f(x)f(y) = 2xy-1

@@ -1,0 +1,5 @@
+TITLE c6h1843613p12399268
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+f(x+yf(x)+y^2) = f(x)+2y

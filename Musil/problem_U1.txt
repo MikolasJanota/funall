@@ -1,0 +1,9 @@
+TITLE U1
+FIND f:Q->R
+ALL x:Q
+ALL y:Q
+f(x+y) = f(x) + f(y)
+SOLUTION:
+GIVEN c:R
+f(x) = cx
+

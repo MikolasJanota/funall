@@ -1,0 +1,9 @@
+TITLE U14 U59 CPSM-2009-1
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+(1+yf(x))(1-yf(x+y)) = 1
+SOLUTION:
+GIVEN c:R+
+f(x) = 1/(x+c)
+

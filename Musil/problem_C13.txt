@@ -1,0 +1,7 @@
+TITLE C13
+FIND f:R+->R+
+ALL x:R+
+f(f(f(x))) + 4f(f(x)) + f(x) = 6x
+SOLUTION:
+f(x) = x
+

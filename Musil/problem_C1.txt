@@ -1,0 +1,8 @@
+TITLE C1
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x+y) + 2f(x-y) - 4f(x) + xf(y) = 3y^2 - x^2 - 2xy + xy^2
+SOLUTION:
+f(x) = x^2
+

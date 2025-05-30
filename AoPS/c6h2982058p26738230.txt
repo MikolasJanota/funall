@@ -1,0 +1,5 @@
+TITLE c6h2982058p26738230
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+f(xy+f(x))=yf(x)+x

@@ -1,0 +1,9 @@
+TITLE U23 U74 PraSe-22-7-4
+FIND f:R->R
+ALL x:R
+ALL y:R
+ALL z:R
+1/2 f(xy) + 1/2 f(xy) - f(x) f(yz) >= 1/4
+SOLUTION:
+f(x) = 1/2
+

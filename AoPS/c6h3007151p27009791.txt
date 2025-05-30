@@ -1,0 +1,5 @@
+TITLE c6h3007151p27009791
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x)f(f(x)+y) = f(x^2) + f(xy)

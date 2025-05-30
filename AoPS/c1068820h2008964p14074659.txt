@@ -1,0 +1,5 @@
+TITLE c1068820h2008964p14074659
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x - f(y)) = 1 + x - y

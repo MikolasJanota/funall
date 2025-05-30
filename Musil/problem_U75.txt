@@ -1,0 +1,13 @@
+TITLE U75 PraSe-22-7-5
+FIND f:R->R
+FIND g:R->R
+ALL x:R
+ALL y:R
+f(x-y) = f(x)g(y) + f(y)g(x)
+SOLUTION:
+GIVEN c:R
+f(x) = c
+g(x) = 1/2
+SOLUTION:
+f(x) = 0
+

@@ -1,0 +1,4 @@
+TITLE c6h623321p3729708
+FIND f:R+->R+
+ALL x:R+
+f(f(x) - x) = 2x

@@ -1,0 +1,9 @@
+TITLE U21
+FIND f:R->R+ INCREASING
+ALL x:R
+ALL y:R
+f(x+y) = f(x)f(y)
+SOLUTION:
+GIVEN a:(1,inf)
+f(x) = a^x
+

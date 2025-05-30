@@ -1,0 +1,10 @@
+TITLE U26 U84 PraSe-27-7-8
+FIND f:R+->R+ MONOTONIC
+ALL x:R+
+ALL y:R+
+f(xy) f(f(y)/x) = 1
+SOLUTION:
+f(x) = 1
+SOLUTION:
+f(x) = 1/x
+

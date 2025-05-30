@@ -1,0 +1,5 @@
+TITLE c6h3280501p30209335
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(x)f(yf(x)) + yf(xy) = xf(xy) + y^2f(x)

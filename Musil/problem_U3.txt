@@ -1,0 +1,9 @@
+TITLE U3
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x+y) = f(x)+y
+SOLUTION:
+GIVEN c:R
+f(x) = x+c
+

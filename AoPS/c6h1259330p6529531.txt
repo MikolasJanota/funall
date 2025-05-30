@@ -1,0 +1,5 @@
+TITLE c6h1259330p6529531
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x + f(y)) + f(x - f(y)) = x

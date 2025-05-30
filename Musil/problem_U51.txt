@@ -1,0 +1,9 @@
+TITLE U51 MEMO-2011
+FIND f:R->R
+ALL x:R
+ALL y:R
+y^2f(x) + x^2f(y) + xy = xyf(x+y) + x^2 + y^2
+SOLUTION:
+GIVEN c:R
+f(x) = cx+1
+

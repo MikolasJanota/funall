@@ -1,0 +1,7 @@
+TITLE U11
+FIND f:R+->R
+ALL x:R+
+x^3 f(x)^3 + 1 = xf(x)(1+xf(x))
+SOLUTION:
+f(x) = 1/x || f(x) = -1/x
+

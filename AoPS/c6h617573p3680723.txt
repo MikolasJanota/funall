@@ -1,0 +1,5 @@
+TITLE c6h617573p3680723
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x^2) + f(2y^2) = (f(x+y) + f(y))(f(x-y) + f(y))

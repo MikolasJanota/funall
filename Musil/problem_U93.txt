@@ -1,0 +1,9 @@
+TITLE U93
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+f(f(x) + y) = xf(1 + xy)
+SOLUTION:
+f(x) = 1/x
+
+# U94 SKIPPED: higher arity

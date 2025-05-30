@@ -1,0 +1,5 @@
+TITLE c1068820h2040766p14434761
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+x * f(y) + y * f(x) = f(x) * f(y) * (f(x) + f(y))

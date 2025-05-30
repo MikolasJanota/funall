@@ -1,0 +1,5 @@
+TITLE c6h85071p494821
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+f(x)f(y) = 2f(x + yf(x))

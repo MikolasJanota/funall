@@ -1,0 +1,5 @@
+TITLE c6h2685482p23297682
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x^2+f(y)-y) = (f(x))^2 - f(y)

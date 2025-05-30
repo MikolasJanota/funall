@@ -1,0 +1,5 @@
+TITLE c6h425950p2410701
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+(1 + yf(x))(1 - yf(x + y)) = 1

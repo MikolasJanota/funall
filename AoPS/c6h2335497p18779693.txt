@@ -1,0 +1,5 @@
+TITLE c6h2335497p18779693
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(f(x) - y) = f(xy) + f(x)f(-y)

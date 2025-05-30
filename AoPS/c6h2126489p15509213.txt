@@ -1,0 +1,5 @@
+TITLE c6h2126489p15509213
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(y^2 - f(x)) = yf(x)^2 + f(x^2y + y)  

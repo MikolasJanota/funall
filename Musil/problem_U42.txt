@@ -1,0 +1,9 @@
+TITLE U42 IMOSC-2002-A1
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(f(x)+y) = 2x + f(f(y) - x)
+SOLUTION:
+GIVEN c:R
+f(x) = x+c
+

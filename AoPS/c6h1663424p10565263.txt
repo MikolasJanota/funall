@@ -1,0 +1,5 @@
+TITLE c6h1663424p10565263
+FIND f:R->R  
+ALL a:R  
+ALL b:R  
+f(a^2) - f(b^2) <= (f(a) + b)(a - f(b))

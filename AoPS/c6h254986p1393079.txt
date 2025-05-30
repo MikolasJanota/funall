@@ -1,0 +1,8 @@
+TITLE c6h254986p1393079
+FIND f:R->R
+GIVEN a:R
+GIVEN b:R
+ALL x:R
+ALL y:R
+y != 0 => f(2x) = af(x) + bx
+f(x)f(y) = f(xy) + f(x/y)

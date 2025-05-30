@@ -1,0 +1,5 @@
+TITLE c5h3038298p27349314
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+f(xy+f(x)) = xf(y) + 2

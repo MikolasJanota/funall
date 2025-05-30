@@ -1,0 +1,8 @@
+TITLE U76 PraSe-22-7-8
+FIND f:R+0->R+0 INCREASING
+ALL x:R+0
+ALL y:R+0
+f(yf(x)) = x^2 f(xy)
+SOLUTION:
+f(x) = x^2
+

@@ -1,0 +1,5 @@
+TITLE c6h367952p2025516
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+(x + y)f(f(x)y) = x^2f(f(x) + f(y))

@@ -1,0 +1,8 @@
+TITLE U13
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(f(x) + f(y)) = f(x) + y
+SOLUTION:
+f(x) = x
+

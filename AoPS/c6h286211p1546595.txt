@@ -1,0 +1,5 @@
+TITLE c6h286211p1546595
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+xf(x) - yf(y) = (x - y)f(x + y)

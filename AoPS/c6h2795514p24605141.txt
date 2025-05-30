@@ -1,0 +1,5 @@
+TITLE c6h2795514p24605141
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(f(x-y) - yf(x)) = xf(y)  

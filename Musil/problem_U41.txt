@@ -1,0 +1,14 @@
+TITLE U41 IMO-2002-4
+FIND f:R->R
+ALL x:R
+ALL y:R
+ALL u:R
+ALL v:R
+(f(x) + f(y)) (f(u) + f(v)) = f(xu - yv) + f(xv + yu)
+SOLUTION:
+f(x) = x^2
+SOLUTION:
+f(x) = 1/2
+SOLUTION:
+f(x) = 0
+

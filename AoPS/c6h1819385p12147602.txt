@@ -1,0 +1,5 @@
+TITLE c6h1819385p12147602
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(f(x)^2 - y^2)^2 + f(2xy)^2 = f(x^2 + y^2)^2

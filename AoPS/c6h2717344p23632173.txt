@@ -1,0 +1,5 @@
+TITLE c6h2717344p23632173
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(f(x+y)-f(x-y))=y^2f(x)

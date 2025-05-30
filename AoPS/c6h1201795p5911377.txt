@@ -1,0 +1,5 @@
+TITLE c6h1201795p5911377
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+(x^2 + xy + y^2)(f(x) - f(y)) = f(x^3) - f(y^3)

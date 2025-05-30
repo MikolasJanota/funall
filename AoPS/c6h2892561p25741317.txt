@@ -1,0 +1,5 @@
+TITLE c6h2892561p25741317
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+f(f(x)+ (y + 1)/f(y)) = (1/f(y)) + x + 1

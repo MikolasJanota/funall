@@ -1,0 +1,5 @@
+TITLE c6h385996p2143636
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x) + f(y) = f(f(x)f(y))

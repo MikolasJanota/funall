@@ -1,0 +1,5 @@
+TITLE c6h2918270p26069674
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+f(x+y)f(f(x)) = f(1+yf(x))

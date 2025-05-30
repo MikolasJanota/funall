@@ -1,0 +1,8 @@
+TITLE U73 PraSe-18-6-7
+FIND f:R->R BOUNDED
+ALL x:R
+ALL y:R
+2f(x+pi/6) = sqrt(3) f(x) + cos(x) - sin(x)
+SOLUTION:
+f(x) = sin(x) + cos(x)
+

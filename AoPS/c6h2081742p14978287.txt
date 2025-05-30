@@ -1,0 +1,7 @@
+TITLE c6h2081742p14978287
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+ALL u:R  
+ALL v:R  
+(x + y) = (u + v) => (f(x) - f(y))(u - v) = (f(u) - f(v))(x - y)

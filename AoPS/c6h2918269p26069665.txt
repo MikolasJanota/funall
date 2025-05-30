@@ -1,0 +1,5 @@
+TITLE c6h2918269p26069665
+FIND f:R->R
+ALL x:R
+ALL y:R
+xy(f(x+y)-f(x)-f(y))=2f(xy)

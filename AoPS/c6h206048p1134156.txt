@@ -1,0 +1,7 @@
+TITLE c6h206048p1134156
+FIND f:R+->R
+ALL x:R+
+ALL y:R+
+f(x) >= 0
+f(1) = 1/2
+f(y * f(x)) * f(x) = f(x + y)

@@ -1,0 +1,7 @@
+TITLE c6h17333p118703
+FIND f:R->R
+ALL x:R
+ALL y:R
+ALL z:R
+ALL t:R
+(f(x)+f(z))(f(y)+f(t)) = f(xy-zt) + f(xt+yz)

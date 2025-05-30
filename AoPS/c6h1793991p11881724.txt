@@ -1,0 +1,5 @@
+TITLE c6h1793991p11881724
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(xy+f(x))=xf(y)

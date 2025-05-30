@@ -1,0 +1,5 @@
+TITLE c1068820h2745751p23959360
+FIND f:R->R
+ALL x:R
+ALL y:R
+xf(x+xy) = xf(x) + f(x^2)f(y)

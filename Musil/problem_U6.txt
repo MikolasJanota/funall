@@ -1,0 +1,9 @@
+TITLE U6 U80 PraSe-27-7-1
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x+y) - f(x-y) = xy
+SOLUTION:
+GIVEN c:R
+f(x) = x^2/4+c
+

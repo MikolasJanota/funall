@@ -1,0 +1,5 @@
+TITLE c6h474746p2658967
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(yf(x + y) + f(x)) = 4x + 2yf(x + y)

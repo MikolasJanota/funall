@@ -1,0 +1,9 @@
+TITLE U22
+FIND f:R+->R INCREASING
+ALL x:R+
+ALL y:R+
+f(xy) = f(x)+f(y)
+SOLUTION:
+GIVEN b:R+
+f(x) = b log(x)
+

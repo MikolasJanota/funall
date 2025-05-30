@@ -1,0 +1,5 @@
+TITLE c1068820h2268520p17632216
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x + y^2 - f(y)) = f(x)

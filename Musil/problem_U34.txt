@@ -1,0 +1,7 @@
+TITLE U34 IMO-1990-4
+FIND1 f:Q+->Q+
+ALL x:Q+
+ALL y:Q+
+f(xf(y)) = f(x)/y
+# SOLUTION SKIPPED, complex construction
+

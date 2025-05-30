@@ -1,0 +1,5 @@
+TITLE c6h2805674p24734603
+FIND f:R->R
+ALL x:R
+f(x+1) = f(x) + 1
+f(x^2) = f(x)^2

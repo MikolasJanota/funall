@@ -1,0 +1,5 @@
+TITLE c1068820h2554984p21862259
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(xy + f(x)) = xf(y) + f(x)

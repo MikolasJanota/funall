@@ -1,0 +1,5 @@
+TITLE c6h2320977p18525446
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+x^2f(x^2+y^2) + y^4 = (xf(x+y) + y^2)(xf(x-y) + y^2)

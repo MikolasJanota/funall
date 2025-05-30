@@ -1,0 +1,5 @@
+TITLE c6h116957p664323
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(xf(y)+f(x)) = 2f(x) + xy

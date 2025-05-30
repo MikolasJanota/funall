@@ -1,0 +1,5 @@
+TITLE c6h2824519p24970505
+FIND f:R->R
+ALL x:R
+f(f(x)f(1-x)) = f(x)
+f(f(x)) = 1 - f(x)

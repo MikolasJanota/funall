@@ -1,0 +1,11 @@
+TITLE U46 IMO-2010-1
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(floor(x)y) = f(x) floor(f(y))
+SOLUTION:
+f(x) = 0
+SOLUTION:
+GIVEN c:[1,2)
+f(x) = c
+

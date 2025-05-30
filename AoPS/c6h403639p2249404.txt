@@ -1,0 +1,5 @@
+TITLE c6h403639p2249404
+FIND f:R->R
+ALL x:R
+ALL y:R
+(x-2)f(y) + f(y + 2f(x)) = f(x + yf(x))

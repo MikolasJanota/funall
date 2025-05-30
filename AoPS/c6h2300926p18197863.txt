@@ -1,0 +1,5 @@
+TITLE c6h2300926p18197863
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+y > x + 1 => f(xy + x + y) = (f(x) - f(y))f(y - x - 1)

@@ -1,0 +1,6 @@
+TITLE c6h2582980p22238260
+FIND f:R->R  
+GIVEN a:R  
+ALL x:R  
+ALL y:R  
+f(f(x) + y) = f(x^2 - y) + af(x)y  

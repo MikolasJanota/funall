@@ -1,0 +1,5 @@
+TITLE c1068820h2984781p26766794
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(xf(x) + f(y)) = y + f(x)^2

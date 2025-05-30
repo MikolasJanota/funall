@@ -1,0 +1,9 @@
+TITLE U16
+FIND f:R->R INJECTIVE SURJECTIVE
+ALL x:R
+ALL y:R
+f(f(x)+f(f(y))) = f(f(f(x))+f(y))
+SOLUTION:
+GIVEN c:R
+f(x) = x+c
+

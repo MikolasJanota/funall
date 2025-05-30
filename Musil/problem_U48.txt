@@ -1,0 +1,10 @@
+TITLE U48 MEMO-2008
+FIND f:R->R
+ALL x:R
+ALL y:R
+xf(x+xy) = xf(x) + f(x^2)f(y)
+SOLUTION:
+f(x) = x
+SOLUTION:
+f(x) = 0
+

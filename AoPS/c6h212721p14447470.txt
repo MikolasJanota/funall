@@ -1,0 +1,6 @@
+TITLE c6h212721p14447470
+FIND f:R->R
+ALL u:R
+ALL v:R
+f(2u) = f(u + v)f(v - u) + f(u - v)f(-u - v)
+f(u) >= 0

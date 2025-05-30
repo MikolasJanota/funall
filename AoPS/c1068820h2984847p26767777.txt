@@ -1,0 +1,5 @@
+TITLE c1068820h2984847p26767777
+FIND f:R->R
+ALL x:R
+ALL y:R
+yf(2x) - xf(2y) = 8xy(x^2 - y^2)

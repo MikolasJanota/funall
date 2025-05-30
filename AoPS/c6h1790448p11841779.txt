@@ -1,0 +1,5 @@
+TITLE c6h1790448p11841779
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(x + yf(x)) + f(xy) = f(x) + f(2019y)  

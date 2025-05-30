@@ -1,0 +1,10 @@
+TITLE U49 MEMO-2009
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(xf(y)) + f(f(x) + f(y)) = yf(x) + f(x + f(y))
+SOLUTION:
+f(x) = x
+SOLUTION:
+f(x) = 0
+

@@ -1,0 +1,4 @@
+TITLE c4h15145p107468
+FIND f:R->R
+ALL x:R
+x * f(x/2) - f(2/x) = 1

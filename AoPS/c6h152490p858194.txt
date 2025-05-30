@@ -1,0 +1,4 @@
+TITLE c6h152490p858194
+FIND f:R->R
+ALL x:R
+f(x) + f(1 - 1/x) = x

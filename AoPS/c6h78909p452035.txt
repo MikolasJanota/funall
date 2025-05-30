@@ -1,0 +1,5 @@
+TITLE c6h78909p452035
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(x+y) + f(x)f(y) = f(xy) + 2xy + 1

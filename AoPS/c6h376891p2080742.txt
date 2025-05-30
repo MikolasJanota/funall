@@ -1,0 +1,6 @@
+TITLE c6h376891p2080742
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+ALL z:R  
+f(x+y^2+z) = f(f(x)) + yf(y) + f(z)

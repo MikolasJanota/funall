@@ -1,0 +1,6 @@
+TITLE c6h1460397p8427357
+FIND f:R->R
+GIVEN alpha:R
+ALL x:R
+ALL y:R
+f(f(x + y)f(x - y)) = x^2 + alpha * y * f(y)

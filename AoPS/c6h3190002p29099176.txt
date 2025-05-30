@@ -1,0 +1,5 @@
+TITLE c6h3190002p29099176
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x - y) + xf(x - 1) + f(y) = x^2

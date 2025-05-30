@@ -1,0 +1,10 @@
+TITLE U91
+FIND f:R->R
+ALL x:R
+ALL y:R
+f((x-y)^2) = f(x)^2 - 2xf(y) + y^2
+SOLUTION:
+f(x) = x+1
+SOLUTION:
+f(x) = x
+

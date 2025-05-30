@@ -1,0 +1,6 @@
+TITLE c6h1158064p5501261
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+ALL z:R  
+(f(x)+1)(f(y)+f(z)) = f(xy+z) + f(xz-y)

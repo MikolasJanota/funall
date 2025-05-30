@@ -1,0 +1,5 @@
+TITLE c6h2904996p25899392
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(f(x)-9f(y))=(x+3y)^2f(x-3y)  

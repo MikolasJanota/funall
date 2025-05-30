@@ -1,0 +1,8 @@
+TITLE C9
+FIND f:R+0->R INJECTIVE
+ALL x:R+0
+ALL y:R+0
+f(f(x)+y) = f(2x^2) + 4f(x)y + 2y^2
+SOLUTION:
+f(x) = 2x^2
+

@@ -1,0 +1,6 @@
+TITLE c6h2031298p14319928
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+ALL z:R  
+f(f(x)f(y) + f(y)f(z) + f(z)f(x)) = f(x) + f(y) + f(z)  

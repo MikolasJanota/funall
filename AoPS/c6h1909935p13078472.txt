@@ -1,0 +1,5 @@
+TITLE c6h1909935p13078472
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(xy) <= (1/2)(f(x) + f(y))

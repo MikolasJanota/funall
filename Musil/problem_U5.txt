@@ -1,0 +1,8 @@
+TITLE U5
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(xy+1) + f(x+y) = (f(x)+1)(y+1)
+SOLUTION:
+f(x) = x
+

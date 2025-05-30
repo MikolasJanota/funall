@@ -1,0 +1,10 @@
+TITLE U29
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x+y) + f(x-y) = 2f(x)cos(y)
+SOLUTION:
+GIVEN a:R
+GIVEN b:R
+f(x) = asin(x) + bcos(x)
+

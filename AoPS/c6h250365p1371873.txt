@@ -1,0 +1,5 @@
+TITLE c6h250365p1371873
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+f(f(x)/(yf(x)+1)) = x/(xf(y)+1)

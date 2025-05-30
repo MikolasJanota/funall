@@ -1,0 +1,5 @@
+TITLE c6h2625874p22698175
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+f(x+f(xy))+y = f(x)f(y) + 1

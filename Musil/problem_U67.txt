@@ -1,0 +1,10 @@
+TITLE U67 Spain-2006
+GIVEN lambda:R+
+FIND f:R+->R
+ALL x:R+
+ALL y:R+
+f(lambda) = 1
+f(x)f(y) + f(lambda/x) f(lambda/y) = 2f(xy)
+SOLUTION:
+f(x) = 1
+

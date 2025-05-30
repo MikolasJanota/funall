@@ -1,0 +1,5 @@
+TITLE c1068820h2391983p19634015
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+(x - y)f(x + y) - (x + y)f(x - y) = 4xy(x^2 - y^2)

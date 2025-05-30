@@ -1,0 +1,5 @@
+TITLE c5h2808852p24774907
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+f(x) = f(f(f(x)) + y) + f(xf(y))f(x+y)

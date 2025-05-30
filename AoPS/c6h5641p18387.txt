@@ -1,0 +1,5 @@
+TITLE c6h5641p18387
+FIND f:R->R
+ALL x:R
+ALL y:R
+x != y => f((x + y)/(x - y)) = (f(x) + f(y)) / (f(x) - f(y))

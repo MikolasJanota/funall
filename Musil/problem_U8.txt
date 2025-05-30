@@ -1,0 +1,11 @@
+TITLE U8 U86 PraSe-27-8-7b
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x+f(y)) = f(x)+f(y)^2 + 2xf(y)
+SOLUTION:
+GIVEN c:R
+f(x) = x^2+c
+SOLUTION:
+f(x) = 0
+

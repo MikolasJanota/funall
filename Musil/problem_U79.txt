@@ -1,0 +1,7 @@
+TITLE U79 PraSe-25-4-8
+FIND f:R->R DECREASING
+ALL x:R
+ALL y:R
+f(f(x+f(y))) = f(x+y) - f(y+f(x))
+NO_SOLUTION
+

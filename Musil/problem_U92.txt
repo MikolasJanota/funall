@@ -1,0 +1,8 @@
+TITLE U92
+FIND f:R->R INJECTIVE
+ALL x:R
+ALL y:R
+x != y => f((x+y)/(x-y)) = (f(x)+f(y)) / (f(x) - f(y))
+SOLUTION:
+f(x) = x
+

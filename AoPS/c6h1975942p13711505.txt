@@ -1,0 +1,5 @@
+TITLE c6h1975942p13711505
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(x) + f(yf(x) + f(y)) = f(x + 2f(y)) + xy

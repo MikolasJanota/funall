@@ -1,0 +1,5 @@
+TITLE c6h2346334p18969561
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(xf(x-y)) + yf(x) = x + y + f(x^2)

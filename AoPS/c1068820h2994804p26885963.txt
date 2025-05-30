@@ -1,0 +1,5 @@
+TITLE c1068820h2994804p26885963
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(x + yf(x + y)) = y^2 + f(xf(y + 1))

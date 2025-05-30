@@ -1,0 +1,5 @@
+TITLE c6h249253p1366933
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+f(x+f(y)) = y f(xy+1)

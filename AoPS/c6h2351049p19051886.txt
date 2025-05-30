@@ -1,0 +1,5 @@
+TITLE c6h2351049p19051886
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+x^2f(x) + yf(y^2) = f(x+y)f(x^2 - xy + y^2)  

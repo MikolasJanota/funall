@@ -1,0 +1,5 @@
+TITLE c6h259945p1414623
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+f(x^2) + f(y) = f(x^2 + y + xf(4y))

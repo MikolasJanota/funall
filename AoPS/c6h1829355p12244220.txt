@@ -1,0 +1,5 @@
+TITLE c6h1829355p12244220
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x+y) <= f(x^2+y)

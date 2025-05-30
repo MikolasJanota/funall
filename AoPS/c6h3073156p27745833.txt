@@ -1,0 +1,5 @@
+TITLE c6h3073156p27745833
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+xy != 1 => f(x)f(y) = (xy - 1)^2f((x + y - 1)/(xy - 1))  

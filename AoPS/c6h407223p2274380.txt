@@ -1,0 +1,7 @@
+TITLE c6h407223p2274380
+FIND f:R->R
+GIVEN M:R
+ALL x:R
+ALL y:R
+f(x) < M
+f(xf(y)) + yf(x) = xf(y) + f(xy)

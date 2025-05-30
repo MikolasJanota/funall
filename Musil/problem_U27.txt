@@ -1,0 +1,9 @@
+TITLE U27 U36 IMOSC-1992-A2
+GIVEN a:R+
+GIVEN b:R+
+FIND f:R+->R+
+ALL x:R+
+f(f(x)) + af(x) = b(a+b)x
+SOLUTION:
+f(x) = bx
+

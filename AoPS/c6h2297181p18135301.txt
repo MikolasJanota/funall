@@ -1,0 +1,6 @@
+TITLE c6h2297181p18135301
+FIND f:R->R  
+GIVEN a:R  
+ALL x:R  
+ALL y:R  
+(x+y)(f(x)-f(y)) = a(x-y)f(x+y)

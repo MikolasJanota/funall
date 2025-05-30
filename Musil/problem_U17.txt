@@ -1,0 +1,9 @@
+TITLE U17
+GIVEN f:R->R
+FIND r:R
+ALL x:R
+f(f(x)) = x+f(x)
+f(f(r)) = 0
+SOLUTION:
+r = 0
+

@@ -1,0 +1,5 @@
+TITLE c6h1999177p13966360
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(y - xy) = f(x)y + (x - 1)^2 f(y)  

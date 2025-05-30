@@ -1,0 +1,8 @@
+TITLE U90
+FIND f:R+->R+
+ALL x:R+
+f(x) > x
+f(f(x) - x) = 6x
+SOLUTION:
+f(x) = 3x
+

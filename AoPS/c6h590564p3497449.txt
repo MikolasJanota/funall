@@ -1,0 +1,5 @@
+TITLE c6h590564p3497449
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+f(y/f(x+1)) + f((x+1)/(xf(y))) = f(y)

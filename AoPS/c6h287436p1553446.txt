@@ -1,0 +1,4 @@
+TITLE c6h287436p1553446
+FIND f:R->R
+ALL x:R
+x^2 f(x) + f(1 - x) = 2x - x^4

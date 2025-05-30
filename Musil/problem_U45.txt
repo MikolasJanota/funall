@@ -1,0 +1,10 @@
+TITLE U45 IMOSC-2009-A7
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(xf(x+y)) = f(yf(x)) + x^2
+SOLUTION:
+f(x) = x
+SOLUTION:
+f(x) = -x
+

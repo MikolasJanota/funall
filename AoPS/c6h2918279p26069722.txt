@@ -1,0 +1,6 @@
+TITLE c6h2918279p26069722
+FIND f:R->R
+ALL x:R
+ALL y:R
+ALL z:R
+(x (f(x) - (f(y) + f(z)) / 2) + y (f(y) - (f(z) + f(x)) / 2) + z (f(z) - (f(x) + f(y)) / 2)) f(x+y+z) = f(x^3) + f(y^3) + f(z^3) - 3f(xyz)

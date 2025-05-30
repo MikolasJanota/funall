@@ -1,0 +1,11 @@
+TITLE U15
+FIND f:Q->R
+ALL x:Q
+ALL y:Q
+f(x+y) = f(x)f(y)
+SOLUTION:
+f(x) = 0
+SOLUTION:
+GIVEN c:R+
+f(x) = c^x
+

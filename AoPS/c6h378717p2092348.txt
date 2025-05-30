@@ -1,0 +1,5 @@
+TITLE c6h378717p2092348
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(f(x)-y^2) = f(x)^2 - 2f(x)y^2 + f(f(y))

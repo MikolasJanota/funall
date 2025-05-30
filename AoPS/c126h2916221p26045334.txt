@@ -1,0 +1,5 @@
+TITLE c126h2916221p26045334
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(f(x) + f(y)^2) = f(x)^2 + y^2f(y)^3

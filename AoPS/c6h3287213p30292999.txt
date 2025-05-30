@@ -1,0 +1,5 @@
+TITLE c6h3287213p30292999
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+f(xy + x + y) + f(1/x)f(1/y) = 1

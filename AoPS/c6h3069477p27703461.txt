@@ -1,0 +1,5 @@
+TITLE c6h3069477p27703461
+FIND f:R->R
+ALL x:R
+ALL y:R
+xf(x+f(y)) = (y-x)f(f(x))

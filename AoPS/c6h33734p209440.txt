@@ -1,0 +1,5 @@
+TITLE c6h33734p209440
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x^2+y^2+2f(xy)) = (f(x+y))^2

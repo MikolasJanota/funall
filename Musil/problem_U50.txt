@@ -1,0 +1,12 @@
+TITLE U50 MEMO-2010
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(x+y) + f(x)f(y) = f(xy) + (y+1)f(x) + (x+1)f(y)
+SOLUTION:
+f(x) = x^2+x
+SOLUTION:
+f(x) = 3x
+SOLUTION:
+f(x) = 0
+

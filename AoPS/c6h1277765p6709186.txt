@@ -1,0 +1,5 @@
+TITLE c6h1277765p6709186
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+f(x+y+f(y)) = 4030x - f(x) + f(2016y)

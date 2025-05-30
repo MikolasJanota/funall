@@ -1,0 +1,11 @@
+TITLE U43 IMOSC-2003-A5
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+ALL z:R+
+f(xyz) + f(x) + f(y) + f(z) = f(sqrt(xy)) f(sqrt(yz)) f(sqrt(xz))
+1 <= x && x < y => f(x) < f(y)
+SOLUTION:
+GIVEN c:R+
+f(x) = x^c + x^-c
+

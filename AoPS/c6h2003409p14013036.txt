@@ -1,0 +1,5 @@
+TITLE c6h2003409p14013036
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(x+yf(x+y)) = y^2 + f(x)f(y)  

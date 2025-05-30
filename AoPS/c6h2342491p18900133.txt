@@ -1,0 +1,6 @@
+TITLE c6h2342491p18900133
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+ALL z:R+
+f(xf(y)) + f(yf(z)) + f(zf(x)) = xy + yz + zx

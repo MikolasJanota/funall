@@ -1,0 +1,5 @@
+TITLE c1068820h2984878p26768101
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+f(xy) <= (xf(y) + yf(x)) / 2

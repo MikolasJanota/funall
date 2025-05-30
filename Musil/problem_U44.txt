@@ -1,0 +1,12 @@
+TITLE U44 IMO-2008-4
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+ALL z:R+
+ALL w:R+
+xw = yz => (f(w)^2 + f(x)^2) / (f(y^2) + f(z^2)) = (w^2+x^2) / (y^2+z^2)
+SOLUTION:
+f(x) = x
+SOLUTION:
+f(x) = 1/x
+

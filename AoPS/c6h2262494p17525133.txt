@@ -1,0 +1,5 @@
+TITLE c6h2262494p17525133
+FIND f:R->R
+ALL x:R
+ALL y:R
+2f(x^2+y^2)=(x+f(y))^2+f(x-f(y))^2

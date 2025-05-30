@@ -1,0 +1,5 @@
+TITLE c6h338762p1812875
+FIND f:R->R  
+ALL x:R  
+ALL y:R  
+f(f(x)) + f(f(y)) = 2y + f(x - y)

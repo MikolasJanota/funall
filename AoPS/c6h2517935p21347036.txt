@@ -1,0 +1,5 @@
+TITLE c6h2517935p21347036
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+f(xy + f(y)^2) = f(x)f(y) + yf(y)

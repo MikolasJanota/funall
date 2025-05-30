@@ -1,0 +1,5 @@
+TITLE c6h1491353p8754756
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+(x+f(y))/(xf(y)) = f(1/y+f(1/x))

@@ -1,0 +1,6 @@
+TITLE c6h1415071p7971852
+FIND f:R+->R+
+ALL x:R+
+ALL y:R+
+ALL z:R+
+f(x)f(y)f(z) = 9f(z + xyf(z))

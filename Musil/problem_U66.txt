@@ -1,0 +1,10 @@
+TITLE U66 Iran-1999
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(f(x) + y) = f(x^2 - y) + 4f(x)y
+SOLUTION:
+f(x) = x^2
+SOLUTION:
+f(x) = 0
+

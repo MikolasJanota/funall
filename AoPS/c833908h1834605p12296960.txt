@@ -1,0 +1,5 @@
+TITLE c833908h1834605p12296960
+FIND f:R->R
+ALL x:R
+ALL y:R
+f(f(x) + y)^2 = (x - y)(f(x) - f(y)) + 4f(x)f(y)

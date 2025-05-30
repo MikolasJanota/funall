@@ -1,0 +1,7 @@
+TITLE C7
+FIND f:R->R
+ALL x:R-1,-1
+f((x-3)/(x+1)) + f((x+3)/(1-x)) = x
+SOLUTION:
+f(x) = (x^3+7x) / (2(1-x^2))
+
