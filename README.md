@@ -1,4 +1,6 @@
-# Installation
+# AllFun
+
+## Installation
 
 The tool has only been tested on Linux and MacOs. Bulk of the code is written
 in python but it requires other tools (solvers) to run.
@@ -20,10 +22,18 @@ The key `parallel` runs portfolio of SMT solvers rather than sequentially.
 }
 ```
 
-To prevent `tarski` from getting stuck, we also wrap it in `tarski.sh`, which kills it after 10s,
-so put `pwd tarski.sh`, in `config.json` and modify `tarski.sh` according to your location of `tarski`.
+To prevent `tarski` from getting stuck, we also wrap it in `tarski.sh`, which
+kills it after 10s, so put `pwd tarski.sh`, in `config.json` and modify
+`tarski.sh` according to your location of `tarski`.
 
-## Python dependencies
+For our experiments, we used the following versions of the solvers
+
+- Z3 version 4.12.1 - 64 bit
+- cvc5 version 1.1.3-dev.72.2b4ca00c2 [git 2b4ca00c2 on branch main]
+- tarski 1.37
+- Vampire 4.8 (commit 8d999c135 on 2023-07-12 16:43:10 +0000) Linked with Z3 4.9.1.0 6ed071b44407cf6623b8d3c0dceb2a8fb7040cee z3-4.8.4-6427-g6ed071b44
+
+### Python dependencies
 
 It also requires the following Python packages: `sympy`, `pysmt`, `psutil`, and `icecream`,
 which can be installed using `pip`.
@@ -34,14 +44,16 @@ pip install pysmt
 pip install psutil
 pip install icecream
 ```
-# Run
 
-To solve a problem, for example, U10 run it as follows. 
+## Run
+
+To solve a problem, for example, U10 run it as follows.
 
 ```shell
 python allfun.py --no-nice-instantiations Musil/problem_U10.smt2 --original-problem Musil/problem_U10.txt
 ```
 
-The original problem option is only important for problems that have a domain different from reals, e.g. R+.
+The original problem option is only important for problems that have a domain
+different from reals, e.g. R+.
 
 See `python allfun.py -h` for  more options.
